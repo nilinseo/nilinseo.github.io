@@ -4,6 +4,6 @@
 本文档会以视频+图文方式描述整个操作过程。
 
 ## 教程目录
- - [碟刹款视频安装教程](/docs/guide/anzhuang.md)
- - [线碟刹安装和调节](/docs/guide/xiandiesha.md)
- - [大灯安装教程](/docs/guide/dadeng.md)
+ - [碟刹款视频安装教程](/guide/anzhuang.md)
+ - [线碟刹安装和调节](/guide/xiandiesha.md)
+ - [大灯安装教程](/guide/dadeng.md)

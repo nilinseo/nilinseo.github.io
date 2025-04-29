@@ -85,7 +85,7 @@ export default defineConfig({
       {
         text: '碟刹款安装教程',
         items: [
-          { text: '视频安装教程', link: '/guide/anzhuang' },
+          { text: '视频安装教程', link: '/guide/dieshakuan' },
           {text: '折叠款视频安装教程', link: '/guide/zhediekuan'},
         ]
       },

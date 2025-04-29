@@ -83,7 +83,7 @@ export default defineConfig({
     // 侧边栏设置
     sidebar: [
       {
-        text: '碟刹款安装教程',
+        text: '整车安装教程',
         items: [
           { text: '视频安装教程', link: '/guide/dieshakuan' },
           {text: '折叠款视频安装教程', link: '/guide/zhediekuan'},

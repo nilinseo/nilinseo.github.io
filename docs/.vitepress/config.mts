@@ -67,10 +67,15 @@ export default defineConfig({
     // 导航栏设置 https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '首页', link: '/' },
-      { text: '项目', items: [
-        {text: '视频安装教程', link: '/guide/anzhuang'},
+      { text: '整车安装教程', items: [
+        {text: '碟刹款视频安装教程', link: '/guide/dieshakuan'},
+        {text: '折叠款视频安装教程', link: '/guide/zhediekuan'},
+        ]
+      },
+      { text: '配件安装与调试', items: [
         {text: '线碟刹调节教程', link: '/guide/xiandiesha'},
         {text: '大灯安装教程', link: '/guide/dadeng'},
+        {text: '脚踏安装教程', link: '/guide/jiaota'},
         ]
       },
       { text: '关于', link: '/about' },
@@ -87,7 +92,8 @@ export default defineConfig({
         text: '其他教程',
         items: [
           { text: '线碟刹调节教程', link: '/guide/xiandiesha' },
-          { text: '大灯安装教程', link: '/guide/dadeng' }
+          { text: '大灯安装教程', link: '/guide/dadeng' },
+          { text: '脚踏安装教程', link: '/guide/jiaota' }
         ]
       },
     ],

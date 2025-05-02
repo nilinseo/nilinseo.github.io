@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "夜七笔记",
-  description: "我的Vitepress文档",
+  title: "自行车安装帮助中心",
+  description: "自行车安装帮助中心",
   //设置为中文，相当于html标签加lang="zh-CN"
   lang: "zh-CN",
   locales: {
